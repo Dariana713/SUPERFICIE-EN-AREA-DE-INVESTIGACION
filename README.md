@@ -7,3 +7,6 @@ pixel de 1kmX1km, con un total de 240041 pixeles es igual a  240041 km2, la supe
 Imagen de Correlacion de la SSM en relacion a la vegetacion, para todo el 2020 para España
 
 ![image](https://user-images.githubusercontent.com/78845785/121607230-f6656780-ca4f-11eb-9a9a-fa495f8e9da9.png)
+
+
+Consulta en FAPAR me aprecen 239903 pixeles (aplicando las mimas mascaras de cobertura)
